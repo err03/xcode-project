@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Headsets</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Corsair HS70 Pro Wireless Gaming Headset</string>
+			<key>price</key>
+			<string>82</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>A fully detachable unidirectional microphone reduces ambient noise so you are heard loud and clear, and is Discord-Certified for crystal-clear communication and outstanding sound.</string>
+			<key>image</key>
+			<string>headset0</string>
+			<key>category</key>
+			<string>headset</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HyperX Cloud Stinger - Gaming Headset</string>
+			<key>price</key>
+			<string>73</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>HyperX Cloud Stinger is the ideal headset for gamers looking for lightweight comfort, superior sound quality and added convenience. At just 275 grams, it’s comfortable on your neck and its ear cups rotate in a 90-degree angle for a better fit. HyperX signature memory foam also provides ultimate comfort around the ears for prolonged gaming sessions. To provide optimal audio performance, the Cloud Stinger’s 50-millimeter directional drivers position sound directly into the ear for audio precision and gaming-grade sound quality</string>
+			<key>image</key>
+			<string>headset1</string>
+			<key>category</key>
+			<string>headset</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arama Cell Phone Headset with Microphone Noise Cancelling</string>
+			<key>price</key>
+			<string>124</string>
+			<key>rate</key>
+			<string>2</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Ultra durable headset with reliable structure, build for last. Six levels of adjustability and a lightweight design ensure all day comfortable wearing. You can even pull or bend the headband for personal optimal fit.</string>
+			<key>image</key>
+			<string>headset2</string>
+			<key>category</key>
+			<string>headset</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Razer Kraken Gaming Headset: Lightweight Aluminum Frame, Retractable Noise Isolating Microphone</string>
+			<key>price</key>
+			<string>94.3</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>The No.1 Best-Selling Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc., U.S. Retail Tracking Service, Gaming Designed: Keyboards, Mice, PC Headsets, and PC Microphones, Based on dollar sales, Jan. 2017- June 2020 combined.</string>
+			<key>image</key>
+			<string>headset3</string>
+			<key>category</key>
+			<string>headset</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MANHATTAN Classic Leather Earpad Headset</string>
+			<key>price</key>
+			<string>83.7</string>
+			<key>rate</key>
+			<string>2</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Extends the distance of barcode scanners, printers, digital cameras, keyboard/mouse extensions and other USB devices from a USB-enabled computer. RJ45 ethernet cable not included</string>
+			<key>image</key>
+			<string>headset4</string>
+			<key>category</key>
+			<string>headset</string>
+		</dict>
+	</array>
+	<key>Mouses</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Logitech M705 Wireless Marathon Mouse for PC </string>
+			<key>price</key>
+			<string>322</string>
+			<key>rate</key>
+			<string>1</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Click more. Scroll more. Do more. Logitech Marathon Mouse M705 uses far less power than comparable wireless mice from other companies. That means you can go up to three full years between battery changes.</string>
+			<key>image</key>
+			<string>mouse0</string>
+			<key>category</key>
+			<string>mouse</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Logitech G502 Hero High Performance Gaming Mouse</string>
+			<key>price</key>
+			<string>43</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Hero 25K sensor through a software update from G HUB, this upgrade is free to all players: Our most advanced, with 1:1 tracking, 400+ ips, and 100 - 25,600 max dpi sensitivity plus zero smoothing, filtering, or acceleration</string>
+			<key>image</key>
+			<string>mouse1</string>
+			<key>category</key>
+			<string>mouse</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Redragon M602 RGB Wired Gaming Mouse</string>
+			<key>price</key>
+			<string>91</string>
+			<key>rate</key>
+			<string>2</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>WIRED GAMING MOUSE; built for Gaming Computers - Ergonomic Redragon M602-RGB “Griffin” RGB Backlit Gaming PC Mouse up to 7200 DPI (user adjustable 800/1200/1600/2400/7200 DPI), 10G acceleration. The High-Precision Sensor delivers Pinpoint Accuracy while the Gaming Grade Micro Switches ensure longevity, greater durability and extreme responsiveness, giving you an even greater edge over your competition</string>
+			<key>image</key>
+			<string>mouse2</string>
+			<key>category</key>
+			<string>mouse</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wireless Mouse for Laptop, seenda 2.4G Cordless Mouse with USB Receiver</string>
+			<key>price</key>
+			<string>45.21</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>The 2.4GHz Transmission Technology can provide anti-interference stable transmission and make sure you to enjoy the wireless freedom, just plug and play, no driver or software required. The 2.4GHz technology ensures a strong and reliable connection within 10-meter working range</string>
+			<key>image</key>
+			<string>mouse3</string>
+			<key>category</key>
+			<string>mouse</string>
+		</dict>
+	</array>
+	<key>Keyboards</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Logitech Desktop MK120 Durable</string>
+			<key>price</key>
+			<string>54</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Logitech desktop Mk120. A durable Duo that brings comfort, style, and simplicity together. You&apos;ll be comfortable with the keyboard thanks to the low-profile, whisper-quiet keys and standard layout with full-size f-keys and number pad. With its thin profile, spill-resistant design,* durable keys that can withstand up to 10 million keystrokes** and sturdy, adjustable tilt legs, this sleek keyboard not only looks and feels good—it’s built to last. Plus, it&apos;s got easy-to-read keys. The high-definition optical Mouse puts comfort and control in your hands with smooth, accurate tracking and a comfortable, ambidextrous shape. And setup is simple—you just plug your keyboard and mouse into USB ports and start using them right out of the box.</string>
+			<key>image</key>
+			<string>keyboard0</string>
+			<key>category</key>
+			<string>keyboard</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPET K10 Gaming Keyboard USB Wired Floating Keyboard</string>
+			<key>price</key>
+			<string>342</string>
+			<key>rate</key>
+			<string>5</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Professional Gaming Keyboard. UV coated keycaps and injection laser carving ABS keycaps design, the letter of characters never fade. Anti-sweat, prevents keycap damage, enhanced durability, and tactile feedback. Thick and firm stainless steel base plate, long service life, and never deforms. Metal and ABS construction make it more solid and reliable. NPET K10 gaming keyboard is more durable than the plastic keyboard, your best keyboard choice</string>
+			<key>image</key>
+			<string>keyboard1</string>
+			<key>category</key>
+			<string>keyboard</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Perixx PERIBOARD-317 Wired Backlit USB Keyboard</string>
+			<key>price</key>
+			<string>75</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>White LED backlight: bright and evenly distributed backlit keys, easy typing in lower light environment. Ideal for studio work, office. The backlit can be turned on and off.</string>
+			<key>image</key>
+			<string>keyboard2</string>
+			<key>category</key>
+			<string>keyboard</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Logitech G213 Prodigy Gaming Keyboard</string>
+			<key>price</key>
+			<string>49.4</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Full-size keyboard layout: Comfortable, quiet typing on a familiar keyboard layout with generous palm rest, spill-resistant design and easy-access media keys like mute, volume and play</string>
+			<key>image</key>
+			<string>keyboard3</string>
+			<key>category</key>
+			<string>keyboard</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Razer Huntsman Gaming Keyboard</string>
+			<key>price</key>
+			<string>84</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>The No.1 Best-Selling Gaming Peripherals Manufacturer in the US: Source - The NPD Group, Inc., U.S. Retail Tracking Service, Gaming Designed: Keyboards, Mice, PC Headsets, and PC Microphones, Based on dollar sales, Jan. 2017- June 2020 combined</string>
+			<key>image</key>
+			<string>keyboard4</string>
+			<key>category</key>
+			<string>keyboard</string>
+		</dict>
+	</array>
+	<key>Computers</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display</string>
+			<key>price</key>
+			<string>94</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Powerful and portable, the Aspire 5 laptop delivers on every aspect of everyday computing. Housing the AMD Ryzen 3 3200U Mobile Processor, this Aspire 5 can tackle any job no matter how complex. Creativity soars to new heights with sharp, crisp visuals showcased on the 15.6&quot; Full HD IPS screen, while the thin bezel provides you more space to work with wherever inspiration strikes. It’s the perfect companion to take with you wherever you go!</string>
+			<key>image</key>
+			<string>computer0</string>
+			<key>category</key>
+			<string>computer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lenovo IdeaPad 3 14&quot; Laptop</string>
+			<key>price</key>
+			<string>214</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>With the Lenovo IdeaPad 3 14-inch laptop, you&apos;ll enjoy powerful performance for all types of everyday tasks. Whether you&apos;re working from your home office, a student who needs a lightweight laptop for school, or just need a great entry-level Windows computer for entertainment, video chats, and other day-to-day uses, this practical notebook is engineered for long-lasting performance. Powered by the new Ryzen 5 3500U Mobile Processors with Radeon Graphics, you&apos;ll get multi-core processing power to help you get more things done faster. </string>
+			<key>image</key>
+			<string>computer1</string>
+			<key>category</key>
+			<string>computer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>2020 HP Stream 14&quot; HD SVA Laptop Computer</string>
+			<key>price</key>
+			<string>874</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>14&quot; diagonal HD SVA BrightView Display, 1366 x 768 resolution boasts impressive color and clarity, Anti-glare Energy-efficient WLED screen.</string>
+			<key>image</key>
+			<string>computer2</string>
+			<key>category</key>
+			<string>computer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>New Apple iMac</string>
+			<key>price</key>
+			<string>574</string>
+			<key>rate</key>
+			<string>3</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>21.5-inch (diagonal) 1920-by-1080 resolution display. Seventh-generation dual-core Intel Core i5 processor. Intel Iris Plus Graphics 640. Ultrafast SSD storage. Two Thunderbolt 3 (USB-C) ports. Four USB-A ports. Gigabit Ethernet port</string>
+			<key>image</key>
+			<string>computer3</string>
+			<key>category</key>
+			<string>computer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>2021 HP Pavilion 15.6 Inch FHD 1080P Touchscreen Laptop</string>
+			<key>price</key>
+			<string>999</string>
+			<key>rate</key>
+			<string>4</string>
+			<key>qty</key>
+			<string>1</string>
+			<key>description</key>
+			<string>Seal is opened for upgrade only, from Base Model with Specs 12GB RAM + 256GB SSD. 15.6 in Full HD IPS touchscreen with built-in 720p camera (1920 x 1080), 10-finger multi-touch support, Intel UHD Graphics</string>
+			<key>image</key>
+			<string>computer4</string>
+			<key>category</key>
+			<string>computer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
