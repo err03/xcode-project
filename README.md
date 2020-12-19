@@ -8,6 +8,7 @@
 |<img src="https://github.com/err03/xcode-project/blob/master/camot/camotUI-screenImg/home%20screen.png" width="200" height="400" alt="home screen" title="Home Screen">|<img src="https://github.com/err03/xcode-project/blob/master/camot/camotUI-screenImg/categories%20screen.png" width="200" height="400" alt="Categories screen" title="Categories screen">|<img src="https://github.com/err03/xcode-project/blob/master/camot/camotUI-screenImg/cart%20screen.png" width="200" height="400" alt="Cart Screen" title="Cart Screen">|<img src="https://github.com/err03/xcode-project/blob/master/camot/camotUI-screenImg/right-top%20user%20login%20screen.png" width="200" height="400" alt="User Screen" title="User Screen">|
 ### Home Screen
 <img src="https://github.com/err03/xcode-project/blob/master/camot/camotUI-screenImg/home%20screen.png" width="200" height="400" alt="home screen" title="Home Screen"> 
+
 ### Categories Screen
 |Mouse Screen|Product Detail Screen|Product Add to Cart|
 |---|---|---|
