@@ -27,4 +27,4 @@
 ## CAMOT-Storyboard
 |Main.Storyboard Screen|
 |---|
-|<img src="https://github.com/err03/xcode-project/blob/master/camot/camotStoryboard-screenImg/storyboard.png" width="500" height="550" alt="main screen" title="main screen">|
+|<img src="https://github.com/err03/xcode-project/blob/master/camot/camotStoryboard-screenImg/storyboard.png" width="1000" height="800" alt="main screen" title="main screen">|
