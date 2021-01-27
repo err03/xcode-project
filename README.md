@@ -2,7 +2,7 @@
 - CAMOT Project
 	- [CAMOT SwiftUI](#CAMOT-SwiftUI)
 	- [CAMOT StoryBoard](#CAMOT-Storyboard)
-	
+- [fgame Project](#fgame-Project)
 ---
 
 ## CAMOT-SwiftUI
@@ -36,3 +36,16 @@
 |<img src="https://github.com/err03/xcode-project/blob/master/camot/camotStoryboard-screenImg/storyboard.png" width="1000" height="800" alt="main screen" title="main screen">|
 
 ---
+
+## fgame-Project
+---
+|Frame .sks|Move Right|Move Left|
+|---|---|---|
+|<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/frame_sks.png" width="1000" height="300" alt="main screen" title="frame .sks">|<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/move_right.png" width="1000" height="300" alt="main screen" title="move right">|<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/move_left.png" width="1000" height="300" alt="main screen" title="move left">|
+
+|Fire 1|Fire 2|
+|---|---|
+|<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/fire1.png" width="1000" height="300" alt="main screen" title="fire 1">|<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/fire2.png" width="1000" height="300" alt="main screen" title="fire 2">|
+
+---
+[BACK TO TOP](#xcode-projects)
