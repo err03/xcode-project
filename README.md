@@ -1,6 +1,6 @@
 # xcode-projects
 - CAMOT Project
-	- [CAMOT Prototype](https://www.figma.com/file/pKpWdnQldNONtFA6KeWaJi/Camot?node-id=0%3A1 "prototype")
+	- [CAMOT Prototype](https://github.com/err03/Portfolio "prototype")
 	- [CAMOT SwiftUI](#CAMOT-SwiftUI)
 	- [CAMOT StoryBoard](#CAMOT-Storyboard)
 - [fgame Project](#fgame-Project)
