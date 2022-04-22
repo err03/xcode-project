@@ -4,6 +4,7 @@
 	- [CAMOT SwiftUI](#CAMOT-SwiftUI)
 	- [CAMOT StoryBoard](#CAMOT-Storyboard)
 - [fgame Project](#fgame-Project)
+- [bilibili Project](#bilibili project 1)
 ---
 
 ## CAMOT-SwiftUI
@@ -49,4 +50,8 @@
 |<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/fire1.png" width="1000" height="300" alt="main screen" title="fire 1">|<img src="https://github.com/err03/xcode-project/blob/preview/fgame/fgame_screenShot/fire2.png" width="1000" height="300" alt="main screen" title="fire 2">|
 
 ---
+
+## bilibili project 1
+source: https://www.bilibili.com/video/BV1Kg4y1i7dd?p=7
+
 [BACK TO TOP](#xcode-projects)
